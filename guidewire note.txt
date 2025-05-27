@@ -1,0 +1,28 @@
+subrogation
+salvage
+claim life cycle
+partial and supliment payments
+validation rules
+pre update , pre setup and post setup
+transaction types
+PCF
+segmentation
+subtype entity
+super type entity
+
+
+how code based we can set activity to our manager or supervisor
+how to retrieve data in the database  
+how to create database
+
+
+batch process:
+
+Construct()
+super class 
+
+UI runnable
+Scheduled 
+
+
+

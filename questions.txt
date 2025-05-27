@@ -1,0 +1,38 @@
+entity enhancement and entity extensions
+claim rules 
+exposure rules
+activity rules
+transaction rules 
+work load
+load factor
+default assignment rule condition
+xml model or gx model editor-key property, normal property. 
+xsd editor(difference of gsrc and generated)
+how to create workqueue
+location group and location reference 
+wizard and wizard setup
+data model
+array key
+foreign key 
+relationships one to one,one to many and many to many - c-p, trans - check,check-pay,trans- claim,exp-inc,contact - usertable,user-role
+explain about transaction approval rule
+stages of messaging
+listview ,details view,list-detail view,card view,location
+policy admin system 
+general ladger system 
+check processing system 
+pre define plugin, transport plugin,replay plugin ,response plugin,request plugin.
+GOSU template
+ 
+
+
+loaded 
+pre setup
+seg
+ass
+work 
+post setup
+pre update 
+validation
+closed 
+
